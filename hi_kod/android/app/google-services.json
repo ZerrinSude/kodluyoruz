@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16375532651",
+    "project_id": "hi-kod-60e2c",
+    "storage_bucket": "hi-kod-60e2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16375532651:android:de7bfc2afaba3a3000b52e",
+        "android_client_info": {
+          "package_name": "com.example.hi_kod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLyf3VlPtBq_ono2WiXAa6UJ5_JHFJehA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
